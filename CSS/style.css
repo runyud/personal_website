@@ -1,0 +1,35 @@
+  /*Tag Selectors*/
+  body {
+    background-color: lightblue;
+  }
+  hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 5px;
+    width: 10%;
+  }
+  h1{
+    color: darkblue;
+    text-shadow: 2px 2px 4px violet;
+  }
+  h2{
+    color: green;
+    text-shadow: 1px 1px 2px;
+  }
+  h3{
+    color: orange;
+    text-shadow: 1px 1px red;
+  }
+  img:hover{
+    background-color: gold;
+  }
+  /*Class Selectors*/
+  .michigan{
+    background-color: lightblue;
+    border-radius: 20%;
+  }
+  /*Id Selectors*/
+  #paypal{
+    border-radius: 10%;
+  }
